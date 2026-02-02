@@ -6,7 +6,7 @@ Strong interest in exact sciences, programming, and developing projects that com
 
 Currently, I work mainly with **Python**, exploring algorithms, analyzing data, problem-solving, and academic projects. 🧠
 
-Outside code, I explore creativity through **drawing**, which oftn incluences how I think about technologhy and User Experience. 👨‍💻
+Outside code, I explore creativity through **drawing**, which oftn incluences how I think about technology and User Experience. 👨‍💻
 
 In this GitHub you'll find academic works, studies and experiments developed during my evolution 📈
 
