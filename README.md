@@ -1,9 +1,9 @@
 # Hi there ✌ Welcome to my GitHub!
-## About Me 👨‍💻
+## 👨‍💻 About Me 
 I'm Christian Bezerra, an undergraduate Computer Engineering student.
 Strong interest in exact sciences, programming, and developing projects that combine **logic** and **creativity**.  
 
-## Current Focus 
+## 🎯 Current Focus 
 Currently, I work mainly with **Python**, exploring algorithms, analyzing data, problem-solving, and academic projects. 
 
 ## 🧠 Interests 
@@ -23,7 +23,7 @@ Send an e-mail or text me in LinkedIn
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... htht
+-  🔭 I’m currently working on ... htht
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
