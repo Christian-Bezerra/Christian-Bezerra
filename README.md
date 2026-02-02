@@ -5,6 +5,7 @@ I'm Christian Bezerra, an undergraduate Computer Engineering student.
 Strong interest in exact sciences, programming, and developing projects that combine **logic** and **creativity**. 🎓 
 
 Currently, I work mainly with **Python**, exploring algorithms, analyzing data, problem-solving, and academic projects. 🧠
+
 Outside code, I explore creativity through **drawing**, which oftn incluences how I think about technologhy and User Experience. 👨‍💻
 
 In this GitHub you'll find academic works, studies and experiments developed during my evolution 📈
