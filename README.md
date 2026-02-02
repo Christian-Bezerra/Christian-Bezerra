@@ -15,7 +15,7 @@ Outside code, I explore creativity through **drawing**, which often incluences h
 ## 🗂 Repositories 
 In this GitHub you'll find academic works, studies and experiments developed during my evolution
 
-## Contact 💬
+## 💬 Contact 
 Send an e-mail or text me in LinkedIn
 
 <!--
